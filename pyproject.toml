@@ -1,0 +1,11 @@
+[project]
+name = "simple-website-image-related-in-python"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13.0"
+dependencies = [
+    "fastapi>=0.116.1",
+    "flask>=3.1.2",
+    "pillow>=11.3.0",
+]
